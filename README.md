@@ -1,7 +1,8 @@
-## First Half of Screen
-![Screen Shot](client/public/images/Nuttlyreadmethumb.png)
+
+
 # Nuttly App
 A Full-stack Mern based app that makes shoping with Snip-Cart, along with Mongo, Mongoose and bootstrap-react. 
+![Screen Shot](client/public/images/Nuttlyreadmethumb.png)gi
 
 ## Why do a shopping App? 
 Remember in the old days of setting out milk jugs to be refilled. Nuttly is bringing it back with the aid of modern technology. However we will be doing nut-milk (ie. cashews, peanuts, macadamia nuts, pecans and hazelnut milk and other nut milks.) These are great for cooking and protein shakes. Most store bought, nut-based-milks are water down to get calorie count and fat way down these nut-milks are full fat and not waterdown to allow max nutrition. 
