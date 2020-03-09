@@ -1,3 +1,5 @@
+## First Half of Screen
+![Screen Shot](client/public/images/Nuttlyreadmethumb.png)
 # Nuttly App
 A Full-stack Mern based app that makes shoping with Snip-Cart, along with Mongo, Mongoose and bootstrap-react. 
 
@@ -42,6 +44,6 @@ this is a milk based shopping app that allows users to sign in and order milk th
 view it in action here http://lit-crag-95157.herokuapp.com/
 
 Take a look at my Portfolio Page
-https://jonfinley211.github.io/Responsive-portfolio/
+https://jonfinley211.github.io/portfolio/
 
 
