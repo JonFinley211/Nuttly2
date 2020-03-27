@@ -39,6 +39,11 @@ Modals
 Routes after deployment
 Adobe Xd
 
+## How to install 
+Clone Repo
+Navigate to server.js folder and "npm install" to install the required dependencies.
+Navigate to root directory and "yarn start" to start client.
+
 
 
 this is a milk based shopping app that allows users to sign in and order milk through snipcart. 
